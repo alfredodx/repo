@@ -1,0 +1,10 @@
+superuser12555
+other line
+my line
+<<<<<<< HEAD
+overhead
+
+=======
+line back
+lines
+>>>>>>> 49e9d472d14ae112f1b80e3b5a33b64fca15f9a9
